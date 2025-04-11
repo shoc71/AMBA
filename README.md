@@ -1,4 +1,4 @@
-# ABMA
+# AMBA
 
-Another Budgeting Money App
+Another Money Budgeting App
 
