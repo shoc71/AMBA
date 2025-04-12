@@ -1,11 +1,13 @@
-Points of Philosohpies to Address;
+Points of Philosophies to Address;
 
-1. Anti-Bucgeting Option
+1. Anti-Budgeting Option
    a. necessary spending - desired savings = fun spending
 2. IKEA Effect
-   a. Forcifully opening the app and tracking the expenses yourself
+   a. Forcibly opening the app and tracking the expenses yourself
 3. Excel Effect
-   a. Would like to have everything on excel to track
+   a. Would like to have everything on Excel to track
+4. Avoid Hyper-Focusing on Every Penny in your Life
+   a. Get it done in a way that works for you
 
 Good Personal Finance
 1. Be boring and simple
